@@ -656,6 +656,10 @@ See also [Ticketing](#ticketing), [Task management/To-do lists](#task-management
   * [MdWiki](https://dynalon.github.io/mdwiki/#!index.md) - a Markdown CMS/Wiki completely built in HTML5/Javascript and runs 100% on the client ([Source code](https://github.com/Dynalon/mdwiki))
   * [Read the Docs](https://docs.readthedocs.org/en/latest/install.html) - host documentation, making it fully searchable and easy to find; import your docs using any major version control system, including Mercurial, Git, Subversion, and Bazaar ([Demo](https://readthedocs.org/projects/), [Source code](https://github.com/rtfd/readthedocs.org)) `MIT` `Python`
 
+### Platform as a Service (PaaS)
+
+  * [Dokku](http://progrium.viewdocs.io/dokku/) - Dokku is a Docker powered mini-Heroku. The smallest PaaS implementation you've ever seen. ([Source code](https://github.com/progrium/dokku)) `Bash`
+
 
 ## Static site generators
 
